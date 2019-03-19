@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "firstname" : "Bob",
+        "lastname" : "Cat",
+        "age" : 21,
+        "major" : "Math"
+    },
+    {
+        "id" : 2,
+        "firstname" : "Tom",
+        "lastname" : "Cat",
+        "age" : 18,
+        "major" : "Science"
+    },
+    {
+        "id" : 3,
+        "firstname" : "Marry",
+        "lastname" : "Lamb",
+        "age" : 19,
+        "major" : "Social Study"
+    },
+    {
+        "id" : 4,
+        "firstname" : "Linda",
+        "lastname" : "Lamb",
+        "age" : 21,
+        "major" : "IT"
+    }
+]

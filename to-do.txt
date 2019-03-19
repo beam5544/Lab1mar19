@@ -1,0 +1,5 @@
+1. go to bin in mongodb and run >>> ./mongod --dbpath /Users/6272user/Documents/mongodb/bin/data/db    to open a db
+2. Open Robo3T and connect to 27017 port (default)
+3. Run in terminal by >>> node app.js
+4. getUsers , getUsers/:id    use in URL or postman
+5. addUsers use in postman MODE POST and insert data in body .
